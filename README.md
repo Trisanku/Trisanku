@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Trisanku Sasmal</h1>
 <h3 align="center">Data Analysis Enthusiast</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif">
+
 
 
 
