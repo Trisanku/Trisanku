@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **DATA ANALYSIS**
 
-- 💬 Ask me about **DBMS, DSA, NLP,MYSQL, API**
+- 💬 Ask me about **DBMS, DSA, NLP, MYSQL, API**
 
 - 📫 How to reach me **www.linkedin.com/in/trisanku-sasmal-b4b90822b**
 
